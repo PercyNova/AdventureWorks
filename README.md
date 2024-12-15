@@ -19,23 +19,6 @@ The goal is to:
 
 ---
 
-## Tasks
-### Easy Tasks
-1. List all customers.
-2. Find employees in a department.
-3. Count the total number of products.
-
-### Medium Tasks
-1. Calculate monthly sales revenue.
-2. Group customers by sales territory and calculate spending.
-
-### Advanced Tasks
-1. Calculate profit margins for each product.
-2. Identify customers who haven’t placed an order recently.
-3. Create a KPI dashboard.
-
----
-
 ## How to Replicate
 1. Download the AdventureWorks database from [Microsoft](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure).
 2. Restore the database on your SQL Server (or use a cloud SQL platform).
